@@ -1,2 +1,2 @@
 # samira_project_01
-I linked the css code to HTML
+I linked the CSS code to my HTML file to style the webpage. By connecting the CSS file, I can control the appearance of the elements defined in HTML, including layouts, colors, fonts, and spacing. This setup allows me to separate content (HTML) from presentation (CSS), making it easier to maintain and scale as I develop the project. Now, any updates I make in the CSS file will automatically reflect across the HTML structure, ensuring a consistent design without altering the HTML file itself.
